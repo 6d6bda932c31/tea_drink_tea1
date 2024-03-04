@@ -1,6 +1,6 @@
 {
   "name": "tea_drink_tea1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic demonstration app",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/6d6bda932c31/tea_drink_tea1.git"
+    "url": "https://github.com/6d6bda932c31/tea_drink_tea1.git"
   },
   "dependencies": {
     "tea_drink_coffee": "1.0.0",
